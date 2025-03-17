@@ -1,0 +1,89 @@
+/* Style the nav bar for small media */
+.small-nav {
+  background-color: #002855;
+  padding: 10px;
+  text-align: center;
+  color: #d6d8db;
+  width: 100%;
+  display: none;
+}
+.small-nav ul {
+  list-style-type: none;
+  margin: 5px;
+  padding: 2px;
+  overflow: hidden;
+}
+.small-nav li {
+  display: inline-block;
+  text-decoration: none;
+  padding: 2px;
+  width: 110px;
+}
+.small-nav a {
+  text-decoration: none;
+  width: 100%;
+  padding: 5px;
+  text-align: center;
+}
+.small-nav li a:hover {
+  background-color: #555;
+  color: white;
+}
+.smallNavItem {
+  text-decoration: none;
+  font-size: 10px;
+  text-align: left;
+  padding-left: 10px;
+  margin: 0px;
+}
+.smallNavItem a:hover {
+  background-color: #555;
+  color: white;
+}
+a.smallNavTop {
+  display: none;
+  padding: 5px;
+  margin: 0px;
+  font-size: 10px;
+  background-color: #009933;
+  color: white;
+  text-decoration: none;
+}
+
+/* Changes layout on small screens */
+@media screen and (max-width: 900px) {
+  main, .column, header, .mainContent, .mainSub, .headerSub {
+    width: 90%;
+    height: auto;
+    margin: 15px;
+  }
+  .homeNav, .rightSide, .navSub {
+  	display: none;
+  }
+  .small-nav { display: block; }
+  a.smallNavTop { display: inline-block; }
+  .smallNavItem { text-align: center; }
+  .dropdown {float:left}
+  .dropdown:hover .dropdown-content {
+   	position: relative;
+   	width: 30px;
+   	font-size: 8px;
+   	box-shadow: none;
+  }
+  .blogContent, .pastblogContent, .pastblogOverview {
+    width: 80%;
+  }
+  .standingsList {
+    list-style-type: none;
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+  }
+  .tricolumn, .bicolumn {
+    list-style-type: none;
+    -webkit-column-count: 1; /* Chrome, Safari, Opera */
+    -moz-column-count: 1; /* Firefox */
+    column-count: 1;
+  }  
+  .weekdays li, .days li {width: 12%;}
+}
