@@ -56,6 +56,17 @@ The index.html page is the landing page for this departmental website. Informati
 
 Version 1 of the website includes one stylesheet. Styles are defined and used on the welcome page for left and right side menus, header, main content area, citation caption, and scrolling top button. Other styles are defined for potential use on subpages for blog entries, calendar displays, two- and three-column sections, drop down menus, and special button menu items.
 
+### Women In STEM
+This specific subpage is about the Women in STEM Program presented at Mount St. Mary's University. This subpage provides various information about the program, such as the program's purpose, overseers, participation, how to join, what a typical Women In STEM activity consists of, and other facts about the program.
+
+Information was given from the president of the Women in Stem Program. She answered a series of questions related to the program.
+
+For styling, we used the standard styling originally given. We modified the information to match the info given about the Women in STEM Program. 
+
+**Listed Creators**
+1. Kalina Chang: @kalinachang364
+2. Taylor Lewis: @tayquila 
+
 ## Usage
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
