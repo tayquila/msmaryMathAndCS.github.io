@@ -63,6 +63,8 @@ Information was given from the president of the Women in Stem Program. She answe
 
 For styling, we used the standard styling originally given. We modified the information to match the info given about the Women in STEM Program. 
 
+The information presented in this subpage is the purpose of Women in STEM, program Overseers, participants, how To join Women in STEM, event activity, and facts about Women in STEM
+
 **Listed Creators**
 1. Kalina Chang: @kalinachang364
 2. Taylor Lewis: @tayquila 
