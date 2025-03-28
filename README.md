@@ -59,7 +59,11 @@ Version 1 of the website includes one stylesheet. Styles are defined and used on
 ### Women In STEM
 This specific subpage is about the Women in STEM Program presented at Mount St. Mary's University. This subpage provides various information about the program, such as the program's purpose, overseers, participation, how to join, what a typical Women In STEM activity consists of, and other facts about the program.
 
-Information was given from the president of the Women in Stem Program. She answered a series of questions related to the program.
+The Women in STEM (WSTEM) club is dedicated to empowering young women to explore and succeed in science, technology, engineering, and math. It provides a supportive environment where members can grow both personally and professionally through mentorship, networking, and skill-building opportunities. The club is led by a faculty advisor, Dr. Rachel Hartnett, along with a student executive board that includes a president, vice presidents for different areas like mentorship and outreach, and other leadership roles. While WSTEM is primarily for young women interested in STEM careers, all students are welcome to participate and support the club’s mission. Students can join by signing up at school events such as the Block Party and Mount Mania, where they can get updates on upcoming meetings and activities.  
+
+WSTEM hosts a variety of events designed to help members build connections and develop important skills. Mentorship events allow students to meet alumni and professionals working in STEM fields, providing insight into career paths and opportunities for networking. The club also offers workshops on resume building, research opportunities, and other professional development topics. Beyond academics and career preparation, WSTEM also organizes fun social events to help members bond and create a strong sense of community. With over 260 members, the club frequently collaborates with other organizations on campus, such as Students of Color in STEM (SOCS) and Women in Computing. WSTEM helps young women gain confidence in their abilities and prepare for future success in STEM fields.
+
+Information was provided from the president of the Women in Stem Program. She answered a series of questions related to the program.
 
 For styling, we used the standard styling originally given. We modified the information to match the info given about the Women in STEM Program. 
 
